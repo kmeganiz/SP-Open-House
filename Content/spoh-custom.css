@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap");
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+/* Main */
+
+/* Landing page */
+.landingPage {
+  width: 1920px;
+  height: 1079px;
+  background-image: url(/SPOH_2022/images/bg_spoh_home.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.date {
+  margin-top: 900px;
+}
+
+.home {
+  width: 1920px;
+  height: 2000px;
+  background-image: url(/SPOH_2022/images/bg_spoh_page1.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.navbar {
+  border-radius: 25px;
+}
