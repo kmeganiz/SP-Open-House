@@ -152,6 +152,7 @@ body {
   position: relative;
   left: 25px;
   bottom: 60px;
+  width:max-content;
   background-color: #e5e5e5;
   text-shadow: 2px 2px 0px #f47a63;
   padding: 0.25rem;
